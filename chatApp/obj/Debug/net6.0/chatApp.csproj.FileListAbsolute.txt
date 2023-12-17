@@ -1,0 +1,63 @@
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\appsettings.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\chatApp.exe
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\chatApp.deps.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\chatApp.runtimeconfig.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\chatApp.pdb
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.csproj.AssemblyReference.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.AssemblyInfoInputs.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.AssemblyInfo.cs
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.csproj.CoreCompileInputs.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets\msbuild.chatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets\msbuild.build.chatApp.props
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.chatApp.props
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.chatApp.props
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\scopedcss\bundle\chatApp.styles.css
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.csproj.CopyComplete
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\refint\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.pdb
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\chatApp.genruntimeconfig.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\obj\Debug\net6.0\ref\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\chatApp\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\appsettings.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\chatApp.exe
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\chatApp.deps.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\chatApp.runtimeconfig.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\ref\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\chatApp.pdb
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.csproj.AssemblyReference.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.AssemblyInfoInputs.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.AssemblyInfo.cs
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.csproj.CoreCompileInputs.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\scopedcss\bundle\chatApp.styles.css
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.csproj.CopyComplete
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\ref\chatApp.dll
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.pdb
+C:\Users\kardelen.kubat\OneDrive - Doğuş Holding A.Ş\Masaüstü\lessons\New folder\chatApp\obj\Debug\net6.0\chatApp.genruntimeconfig.cache
